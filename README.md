@@ -47,37 +47,26 @@ model_path: ../data/models/svm.model
 ## Some of the results
 
 #### Test Image 1
-_Detections before NMS_
+_Detections before NMS_            |  _Detections after NMS_
+:-------------------------:|:-------------------------:
 
-![Image 1](data/images/test-im-1.png)
+![Image 1](data/images/test-im-1.png) |  ![](data/images/test-im-1-nms.png)
 
-_Detections after NMS_
-
-![](data/images/test-im-1-nms.png)
 #### Test Image 2
-_Detections before NMS_
+_Detections before NMS_            |  _Detections after NMS_
+:-------------------------:|:-------------------------:
 
-![](data/images/test-im-2.png)
-
-_Detections after NMS_
-
-![](data/images/test-im-2-nms.png)
+![](data/images/test-im-2.png)) |  ![](data/images/test-im-2-nms.png)
 #### Test Image 3
-_Detections before NMS_
+_Detections before NMS_            |  _Detections after NMS_
+:-------------------------:|:-------------------------:
 
-![](data/images/test-im-3.png)
-
-_Detections after NMS_
-
-![](data/images/test-im-3-nms.png)
+![](data/images/test-im-3.png) |  ![](data/images/test-im-3-nms.png)
 #### Test Image 4
-_Detections before NMS_
+_Detections before NMS_            |  _Detections after NMS_
+:-------------------------:|:-------------------------:
 
-![](data/images/test-im-4.png)
-
-_Detections after NMS_
-
-![](data/images/test-im-4-nms.png)
+![](data/images/test-im-4.png) |  ![](data/images/test-im-4-nms.png)
 
 ## TODO
 
