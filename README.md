@@ -1,5 +1,5 @@
 # object-detector
-Object Detector using HOG as descriptor and Linear SVM as classifier. | [Video](https://www.youtube.com/watch?v=SPXocFBjr70)
+Object Detector using HOG as descriptor and Linear SVM as classifier. | [Video](https://youtu.be/Ykmi1wlGILE)
 
 ## Run the code
 
@@ -95,5 +95,4 @@ Here is list of tasks that I am planning to implement in the future -
 3. [Sliding Windows for Object Detection with Python and OpenCV](http://www.pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/)
 4. [Non-Maximum Suppression for Object Detection in Python](http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
 5. [(Faster) Non-Maximum Suppression in Python](http://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
-6. [Texture Matching using Local Binary Patterns (LBP), OpenCV, scikit-learn and Python](http://hanzratech.in/2015/05/30/local-binary-patterns.html)
-7. [Detección de objetos Course by Coursera](https://www.coursera.org/course/deteccionobjetos)
+6.[Histogram of Oriented Gradients and Object Detection](https://sites.google.com/view/geeky-traveller/computer-vision/histogram-of-oriented-gradients-and-object-detection)
