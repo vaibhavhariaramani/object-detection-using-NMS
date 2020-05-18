@@ -85,7 +85,7 @@ Here is list of tasks that I am planning to implement in the future -
 4. [Non-Maximum Suppression for Object Detection in Python](http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/)
 5. [(Faster) Non-Maximum Suppression in Python](http://www.pyimagesearch.com/2015/02/16/faster-non-maximum-suppression-python/)
 6. [Histogram of Oriented Gradients and Object Detection](https://sites.google.com/view/geeky-traveller/computer-vision/histogram-of-oriented-gradients-and-object-detection)
-# Resources 
+# Resources:
 
 To learn more about these Resources you can Refer to some of these articles written by Me:-
 
