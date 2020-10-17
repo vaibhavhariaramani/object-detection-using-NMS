@@ -1,5 +1,5 @@
-# object-detector
-Object Detector using HOG as descriptor and Linear SVM as classifier. | [Video](https://youtu.be/Ykmi1wlGILE)
+# object-detection using NMS
+Object Detector using NMS. | [Video](https://youtu.be/Ykmi1wlGILE)
 
 ## Run the code
 
